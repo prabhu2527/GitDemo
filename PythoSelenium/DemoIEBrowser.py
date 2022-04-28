@@ -1,0 +1,15 @@
+from selenium import webdriver
+
+# browser exposes an executable file
+# through selenium test we need to invoke the executable file which will then invoke actual browser
+#driver = webdriver.Chrome(executable_path="C:\\Users\\prabh\\Downloads\\chromedriver_win32\\chromedriver.exe")
+driver=webdriver.Ie(executable_path="C:\\Users\\prabh\\Downloads\\IEDriverServer_x64_4.0.0\\IEDriverServer.exe")
+driver.maximize_window()          #maximize window
+driver.get("https://rahulshettyacademy.com")   #get method hit url in the browser
+print(driver.title) #title of the page
+print(driver.current_url)
+driver.get("http://google.com")
+driver.minimize_window()           #minimize window
+driver.back()             #back button
+driver.refresh()          #reload the webpage
+driver.close()

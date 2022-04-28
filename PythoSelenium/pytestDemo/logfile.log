@@ -1,0 +1,67 @@
+2022-03-22 22:43:53,019 : WARNING : PythoSelenium.pytestDemo.test_logging : something is in warning mode
+2022-03-22 22:43:53,019 : ERROR : PythoSelenium.pytestDemo.test_logging : A Major error has happened
+2022-03-22 22:43:53,019 : CRITICAL : PythoSelenium.pytestDemo.test_logging : Critical issue
+2022-03-22 22:45:25,457 : INFO : PythoSelenium.pytestDemo.test_logging : Information statement
+2022-03-22 22:45:25,457 : WARNING : PythoSelenium.pytestDemo.test_logging : something is in warning mode
+2022-03-22 22:45:25,457 : ERROR : PythoSelenium.pytestDemo.test_logging : A Major error has happened
+2022-03-22 22:45:25,457 : CRITICAL : PythoSelenium.pytestDemo.test_logging : Critical issue
+2022-03-22 22:45:43,882 : DEBUG : PythoSelenium.pytestDemo.test_logging : A debug statement is executed
+2022-03-22 22:45:43,883 : INFO : PythoSelenium.pytestDemo.test_logging : Information statement
+2022-03-22 22:45:43,883 : WARNING : PythoSelenium.pytestDemo.test_logging : something is in warning mode
+2022-03-22 22:45:43,883 : ERROR : PythoSelenium.pytestDemo.test_logging : A Major error has happened
+2022-03-22 22:45:43,883 : CRITICAL : PythoSelenium.pytestDemo.test_logging : Critical issue
+2022-03-22 22:54:53,312 : DEBUG : PythoSelenium.pytestDemo.BaseClass : A debug statement is executed
+2022-03-22 22:54:53,312 : INFO : PythoSelenium.pytestDemo.BaseClass : Information statement
+2022-03-22 22:54:53,312 : WARNING : PythoSelenium.pytestDemo.BaseClass : something is in warning mode
+2022-03-22 22:54:53,312 : ERROR : PythoSelenium.pytestDemo.BaseClass : A Major error has happened
+2022-03-22 22:54:53,312 : CRITICAL : PythoSelenium.pytestDemo.BaseClass : Critical issue
+2022-03-22 22:54:53,312 : INFO : PythoSelenium.pytestDemo.BaseClass : Rahul
+2022-03-22 22:54:53,313 : INFO : PythoSelenium.pytestDemo.BaseClass : rahulshettyacademy.com
+2022-03-22 22:55:50,212 : DEBUG : PythoSelenium.pytestDemo.BaseClass : A debug statement is executed
+2022-03-22 22:55:50,212 : INFO : PythoSelenium.pytestDemo.BaseClass : Information statement
+2022-03-22 22:55:50,212 : WARNING : PythoSelenium.pytestDemo.BaseClass : something is in warning mode
+2022-03-22 22:55:50,212 : ERROR : PythoSelenium.pytestDemo.BaseClass : A Major error has happened
+2022-03-22 22:55:50,212 : CRITICAL : PythoSelenium.pytestDemo.BaseClass : Critical issue
+2022-03-22 22:55:50,212 : INFO : PythoSelenium.pytestDemo.BaseClass : Rahul
+2022-03-22 22:55:50,212 : INFO : PythoSelenium.pytestDemo.BaseClass : rahulshettyacademy.com
+2022-03-22 23:02:41,659 : DEBUG : safe_getattr : A debug statement is executed
+2022-03-22 23:02:41,659 : INFO : safe_getattr : Information statement
+2022-03-22 23:02:41,659 : WARNING : safe_getattr : something is in warning mode
+2022-03-22 23:02:41,659 : ERROR : safe_getattr : A Major error has happened
+2022-03-22 23:02:41,659 : CRITICAL : safe_getattr : Critical issue
+2022-03-22 23:02:41,674 : DEBUG : test_editProfile : A debug statement is executed
+2022-03-22 23:02:41,674 : INFO : test_editProfile : Information statement
+2022-03-22 23:02:41,674 : WARNING : test_editProfile : something is in warning mode
+2022-03-22 23:02:41,674 : ERROR : test_editProfile : A Major error has happened
+2022-03-22 23:02:41,674 : CRITICAL : test_editProfile : Critical issue
+2022-03-22 23:02:41,674 : INFO : test_editProfile : Rahul
+2022-03-22 23:02:41,674 : INFO : test_editProfile : rahulshettyacademy.com
+2022-03-22 23:04:33,625 : DEBUG : safe_getattr : A debug statement is executed
+2022-03-22 23:04:33,625 : INFO : safe_getattr : Information statement
+2022-03-22 23:04:33,625 : WARNING : safe_getattr : something is in warning mode
+2022-03-22 23:04:33,625 : ERROR : safe_getattr : A Major error has happened
+2022-03-22 23:04:33,625 : CRITICAL : safe_getattr : Critical issue
+2022-03-22 23:04:33,657 : DEBUG : test_editProfile : A debug statement is executed
+2022-03-22 23:04:33,657 : INFO : test_editProfile : Information statement
+2022-03-22 23:04:33,657 : WARNING : test_editProfile : something is in warning mode
+2022-03-22 23:04:33,657 : ERROR : test_editProfile : A Major error has happened
+2022-03-22 23:04:33,657 : CRITICAL : test_editProfile : Critical issue
+2022-03-22 23:04:33,657 : INFO : test_editProfile : Rahul
+2022-03-22 23:04:33,657 : INFO : test_editProfile : rahulshettyacademy.com
+2022-03-22 23:04:33,657 : DEBUG : PythoSelenium.pytestDemo.test_logging : A debug statement is executed
+2022-03-22 23:04:33,657 : INFO : PythoSelenium.pytestDemo.test_logging : Information statement
+2022-03-22 23:04:33,657 : WARNING : PythoSelenium.pytestDemo.test_logging : something is in warning mode
+2022-03-22 23:04:33,657 : ERROR : PythoSelenium.pytestDemo.test_logging : A Major error has happened
+2022-03-22 23:04:33,657 : CRITICAL : PythoSelenium.pytestDemo.test_logging : Critical issue
+2022-04-28 23:54:55,467 : DEBUG : safe_getattr : A debug statement is executed
+2022-04-28 23:54:55,467 : INFO : safe_getattr : Information statement
+2022-04-28 23:54:55,467 : WARNING : safe_getattr : something is in warning mode
+2022-04-28 23:54:55,467 : ERROR : safe_getattr : A Major error has happened
+2022-04-28 23:54:55,467 : CRITICAL : safe_getattr : Critical issue
+2022-04-28 23:54:55,494 : DEBUG : test_editProfile : A debug statement is executed
+2022-04-28 23:54:55,495 : INFO : test_editProfile : Information statement
+2022-04-28 23:54:55,495 : WARNING : test_editProfile : something is in warning mode
+2022-04-28 23:54:55,495 : ERROR : test_editProfile : A Major error has happened
+2022-04-28 23:54:55,495 : CRITICAL : test_editProfile : Critical issue
+2022-04-28 23:54:55,496 : INFO : test_editProfile : Rahul
+2022-04-28 23:54:55,497 : INFO : test_editProfile : rahulshettyacademy.com
