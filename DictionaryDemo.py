@@ -10,3 +10,5 @@ dict["lastname"]="rampur"
 dict["gender"]="Male"
 print(dict) #{'firstname': 'prabhu', 'lastname': 'rampur', 'gender': 'Male'}
 print(dict["lastname"]) #rampur
+
+print (" prabhu is good")
