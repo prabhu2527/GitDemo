@@ -10,6 +10,8 @@ schema = {
         "dependencies": {"age": ["status"]},
 
         },
+    
+    
 }
 
 # validate(instance={"people": [
